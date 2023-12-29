@@ -47,17 +47,18 @@ I'm currently a PhD candidate at Swinburne University of Technology, under the s
 
 # 🏅 TEACHING 
 <span class='anchor' id='-teaching'></span>
-#### Sessional Lecturer and Convenor, ICT30016, Swinburne University of Technology, 07/2022- present
-
-
+#### Sessional Lecturer and Convenor, ICT30016, COS30015 and COS80013, Swinburne University of Technology, 07/2022- present
 ### Sessional Supervisor, COMP90082 Software Project, The University of Melbourne, 02/2022- present
-
 ### Course Developer, ICT30016, Swinburne University of Technology, 02/2023- 07/2023
-
 ### Teaching Assistant, Swinburne University of Technology & Swinburne Online, 01/2022- present
 
 
 # 🏛️ SERVICES & LEADERSHIP
+
+
+
+
+
 
 
 <span class='anchor' id='-gzsx'></span>
