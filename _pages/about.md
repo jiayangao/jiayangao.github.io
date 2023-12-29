@@ -75,12 +75,12 @@ I'm currently a PhD candidate at Swinburne University of Technology, under the s
 
 ### Services
 - RMIT Generative AI for Business: A Hands-on Workshop
-- The Fifth International Conference on Machine Learning for Cyber Security-Session Chair
+- The Fifth International Conference on Machine Learning for Cyber Security (Session Chair)
 - Swinburne Open Day 2022,2023
 - Study Swinburne Expo 2023
 - Swinburne VTAC Info Night 2022
 - Mentor a mini-group project at P-TECH 03/2022-present
-- The 5th International Conference on Science of Cyber Security (SciSec)2023
+- The 5th International Conference on Science of Cyber Security (SciSec) 2023
 
 ### Competition, Awards & Honor
 - ARC Discovery Project Scholarship                     01/2021-present
