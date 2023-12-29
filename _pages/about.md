@@ -30,9 +30,16 @@ I'm currently a PhD candidate at Swinburne University of Technology, under the s
 - *2014.09 - 2018.06*, <a href="https://www.csu.edu.cn//"><img class="svg" src="/images/csu.png" width="20pt"></a> Bachelor of Computer Science, Central South University
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 RESEARCH & INNOVATION
+# 📝 Publications
 
 ---
+-	`Lin Li`, Chao Chen, Lei Pan, Leo Yu Zhang,Jun Zhang, Yang Xiang, 2023, SigA: rPPG-based Authentication for Virtual Reality Head-mounted Display, Accepted by the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID)- (CORE A, CCF B, Acceptance rate:23%)
+-	`Lin Li`, Chao Chen, Lei Pan, Yonghang Tai,Jun Zhang, Yang Xiang, 2023, Hiding Your Signals: A Security Analysis of PPG-based Biometric Authentication, Accepted by European Symposium on Research in Computer Security (ESORICS)- (CORE A, CCF B, Acceptance rate:18.5%)
+-	`Lin Li`, Chao Chen, Lei Pan, Leo Yu Zhang, Zhifeng Wang, Jun Zhang, Yang Xiang, 2023, A Survey of PPG's Application in Authentication, Accepted by Computer & Security (COSE)- (CORE B, CCF B, IF:5.6, SJR: Q1)
+-	`Lin Li`, Chao Chen, Lei Pan, Jun Zhang, Yang Xiang, 2023, SigD: A Cross-Session Dataset for PPG-based User Authentication in Different Demographic Groups, In International Joint Conference on Neural Networks (IJCNN)- (CORE B, CCF C)
+-	`Lin Li`, Chao Chen, Lei Pan, Jun Zhang, Yang Xiang, 2022, Video is All You Need: Attack-ing PPG-based Biometric Authentication, In Proceedings of the 15th ACM Conference on Computer and Communications Security (CCS) Workshop on Artificial Intelligence and Security (AISec)
+-	Hongwei Wei, Guanjun Lin, `Lin Li`, Heming Jia, 2021, A Context-Aware Neural Embedding for Function-Level Vulnerability Detection, Algorithms.
+-	Jun Zhang, `Lin Li`, Guanjun Lin, Da Fang, Yonghang Tai, Jiechun Huang, 2020, Cyber Resilience in Healthcare Digital Twin on Lung Cancer, IEEE Access. 
 
 
 <span class='anchor' id='-ryjx'></span>
