@@ -31,7 +31,7 @@ redirect_from:
 - *2014.09 - 2018.06*, <a href="https://www.csu.edu.cn//"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Bachelor of Computer Science, Central South University
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 RESEARCH & INNOVATION
 
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
@@ -44,14 +44,14 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
+# 🏅 TEACHING & LEARNING 
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
+# 🏛️ SERVICES & LEADERSHIP
 
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
+
 
