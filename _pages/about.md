@@ -54,14 +54,35 @@ I'm currently a PhD candidate at Swinburne University of Technology, under the s
 
 
 # 🏛️ SERVICES & LEADERSHIP
+<span class='anchor' id='-services'></span>
+### External Reviewer
+- The Forty-first International Conference on Machine Learning (ICML)                  2024
+- The International Conference on Learning Representations (ICLR)                      2024
+- The International Joint Conference on Neural Networks (IJCNN)                        2024
+- The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)             2023
+- Conference on Neural Information Processing Systems (NeurIPS)                        2023
+- European Conference on Computer Vision (ECCV)                                        2022 
+- IEEE Transactions on Information Forensics & Security (TIFS)
+- Annals of Telecommunications, Springer
+- Journal of Ambient Intelligence and Humanized Computing, Springer
 
+### Invited Talks                
+- INTI University（Malaysia） Cyber Security - New Challenges to Students.                                10/2022                                                                     
+- Swinburne University of Technology Course No. COS30015 IT Security (Vietnam Campus)                     05/2022 
+- Swinburne University of Technology Course No. CYB80008 Reverse Engineering Project （Hawthorn Campus）   04/2021
 
+### Services
+- RMIT Generative AI for Business: A Hands-on Workshop
+- The Fifth International Conference on Machine Learning for Cyber Security-Session Chair
+- Swinburne Open Day 2022,2023
+- Study Swinburne Expo 2023
+- Swinburne VTAC Info Night 2022
+- Mentor a mini-group project at P-TECH 03/2022-present
+- The 5th International Conference on Science of Cyber Security (SciSec)2023
 
-
-
-
-
-<span class='anchor' id='-gzsx'></span>
-
+### Competition, Awards & Honor
+• ARC Discovery Project Scholarship                     01/2021-present
+• [Hunan University HuaZhong Hackathon Rank #2](https://portfolio.justzht.com/areco/)	          05/2018
+• Mathematical Contest in Modeling (Honorable Mention)	01/2017
 
 
