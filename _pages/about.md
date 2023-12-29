@@ -21,7 +21,7 @@ I'm currently a PhD candidate at Swinburne University of Technology, under the s
 
 <span class='test' id='test'></span>
 <div></div>
-![image](https://github.com/NasTul/Nastul.github.io/assets/9739509/d5790605-2096-4219-933d-600de9120f47)<a href='https://scholar.google.com/citations?user=fKIV3Y8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
+<a href='https://scholar.google.com/citations?user=fKIV3Y8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 
 
 
