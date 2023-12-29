@@ -32,8 +32,9 @@ I'm currently a PhD candidate at Swinburne University of Technology, under the s
 - *2014.09 - 2018.06*, <a href="https://www.csu.edu.cn//"><img class="svg" src="/images/csu.png" width="20pt"></a> Bachelor of Computer Science, Central South University
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 Publications
 <span class='anchor' id='-publications'></span>
+# 📝 Publications
+
 
 ---
 -	`Lin Li`, Chao Chen, Lei Pan, Leo Yu Zhang,Jun Zhang, Yang Xiang, 2023, SigA: rPPG-based Authentication for Virtual Reality Head-mounted Display, Accepted by the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID)- (CORE A, CCF B, Acceptance rate:23%)
@@ -45,17 +46,17 @@ I'm currently a PhD candidate at Swinburne University of Technology, under the s
 -	Jun Zhang, `Lin Li`, Guanjun Lin, Da Fang, Yonghang Tai, Jiechun Huang, 2020, Cyber Resilience in Healthcare Digital Twin on Lung Cancer, IEEE Access. 
 
 
-
-# 🏅 TEACHING 
 <span class='anchor' id='-teaching'></span>
+# 🏅 TEACHING 
+
 - Sessional Lecturer and Convenor, ICT30016, COS30015 and COS80013, Swinburne University of Technology, 07/2022- present
 - Sessional Supervisor, COMP90082 Software Project, The University of Melbourne, 02/2022- present
 - Course Developer, ICT30016, Swinburne University of Technology, 02/2023- 07/2023
 - Teaching Assistant, Swinburne University of Technology & Swinburne Online, 01/2022- present
 
-
-# 🏛️ SERVICES & LEADERSHIP
 <span class='anchor' id='-services'></span>
+# 🏛️ SERVICES 
+
 ### External Reviewer
 - The Forty-first International Conference on Machine Learning (ICML)                  2024
 - The International Conference on Learning Representations (ICLR)                      2024
@@ -82,8 +83,8 @@ I'm currently a PhD candidate at Swinburne University of Technology, under the s
 - The 5th International Conference on Science of Cyber Security (SciSec)2023
 
 ### Competition, Awards & Honor
-• ARC Discovery Project Scholarship                     01/2021-present
-• [Hunan University HuaZhong Hackathon Rank #2](https://portfolio.justzht.com/areco/)	          05/2018
-• Mathematical Contest in Modeling (Honorable Mention)	01/2017
+- ARC Discovery Project Scholarship                     01/2021-present
+- [Hunan University HuaZhong Hackathon Rank #2](https://portfolio.justzht.com/areco/)	          05/2018
+- Mathematical Contest in Modeling (Honorable Mention)	01/2017
 
 
