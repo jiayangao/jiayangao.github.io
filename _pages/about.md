@@ -45,8 +45,34 @@ I'm currently a PhD candidate at Swinburne University of Technology, under the s
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 TEACHING & LEARNING 
-
 <span class='anchor' id='-xshy'></span>
+### Sessional Lecturer and Convenor
+Swinburne University of Technology                                       07/2022- present
+o	Preparing, giving, and leading lectures for COS30015 IT security (≈ 170 Bache-lor students), COS80013 Internet Security (Master students) and ICT30016 ICT Innovation Project (Bachelor students).
+o	The student survey score is significantly higher than the university and the school. 8.14/10 for COS30015 IT security and 8.44/10 for COS80013 Internet Securi-ty. (ICT30016 ICT Innovation Project on going)
+o	Hosted unit consultation sessions, providing one-on-one guidance and clarifica-tions to address student queries.
+o	Actively involved in unit management, overseeing sessional and other teaching staff to ensure delivery of high-quality education.
+
+### Sessional Supervisor in COMP90082 Software Project	
+The University of Melbourne                                             02/2022- present
+o	Organized and facilitated supervision meetings, ensuring students remained on track and received timely feedback.
+o	Monitored and managed students' project progress, providing constructive feedback to enhance their outputs.
+o	Collaborative project development with industry clients, bridging the gap between academia and real-world applications, and providing students with invaluable in-dustry insights.
+
+### Course Developer
+Swinburne University of Technology                                       02/2023- 07/2023
+o	Lecture materials and Project design for ICT30016 ICT Innovation Project.
+o	We apply the SwinLearn Framework to promote students' active learning.
+o	Partnered with the academic department, other lecturers, and industry to weave current trends and challenges into the unit.
+o	Implemented student feedback loops for continuous course improvement, resulting in higher student satisfaction and performance.
+o	Successfully delivered the materials in ICT30016 unit in 2023, semester 2, earning high praise and satisfaction from the course director for quality and execution.
+
+### Teaching Assistant	
+Swinburne University of Technology & Swinburne Online                    01/2022- present
+o	Cooperating course designers to build up an online course, ensuring the effective translation of in-person content to an engaging digital format.
+o	Conceived and implemented public practice workshops aimed at increasing cybersecu-rity visibility, educating both students and the public on crucial cybersecurity principles and best practices.
+o	Acted as a liaison between students and faculty, communicating feedback, concerns, and suggestions to enhance the overall learning experience.
+
 
 # 🏛️ SERVICES & LEADERSHIP
 
