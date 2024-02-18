@@ -56,7 +56,7 @@ I received my Ph.D. degree at Swinburne University of Technology- Information an
 ### External Reviewer
 - The Forty-first International Conference on Machine Learning (ICML)                  2024
 - The International Conference on Learning Representations (ICLR)                      2024
-- The International Joint Conference on Neural Networks (IJCNN)                        2024
+- The International Joint Conference on Neural Networks (IJCNN) as TPC Reviewer        2024
 - The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)             2023
 - Conference on Neural Information Processing Systems (NeurIPS)                        2023
 - European Conference on Computer Vision (ECCV)                                        2022 
