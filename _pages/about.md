@@ -75,7 +75,7 @@ I received my Ph.D. degree at Swinburne University of Technology- Information an
 - Swinburne Open Day 2022,2023
 - Study Swinburne Expo 2023
 - Swinburne VTAC Info Night 2022
-- Mentor a mini-group project at P-TECH 03/2022-present
+- Mentor a mini-group project at P-TECH 03/2022-12/2023
 - The 5th International Conference on Science of Cyber Security (SciSec) 2023
 
 ### Competition, Awards & Honor
