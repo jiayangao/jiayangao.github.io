@@ -45,8 +45,8 @@ I received my Ph.D. degree at Swinburne University of Technology- Information an
 <span class='anchor' id='-teaching'></span>
 # 🏫 TEACHING 
 
-- Sessional Lecturer and Convenor, ICT30016, COS30015 and COS80013, Swinburne University of Technology, 07/2022- present
 - Sessional Supervisor, COMP90082 Software Project, The University of Melbourne, 02/2022- present
+- Sessional Lecturer and Convenor, ICT30016, COS30015 and COS80013, Swinburne University of Technology, 07/2022- 12/2023
 - Course Developer, ICT30016, Swinburne University of Technology, 02/2023- 07/2023
 - Teaching Assistant, Swinburne University of Technology & Swinburne Online, 01/2022- present
 
