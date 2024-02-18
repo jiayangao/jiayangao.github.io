@@ -86,7 +86,7 @@ I received my Ph.D. degree at Swinburne University of Technology- Information an
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2021.01 - present*, <a href="https://www.swinburne.edu.au/"><img class="svg" src="/images/swin.png" width="23pt"></a> PhD, Cybersecurity, Swinburne University of Technology
+- *2021.01 - 2024.01*, <a href="https://www.swinburne.edu.au/"><img class="svg" src="/images/swin.png" width="23pt"></a> PhD, Cybersecurity, Swinburne University of Technology
 - *2019.03 - 2020.12*, <a href="https://www.unimelb.edu.au/"><img class="svg" src="/images/mel.png" width="20pt"></a> Master of Science (Computer Science), The University of Melbourne
 - *2014.09 - 2018.06*, <a href="https://www.csu.edu.cn//"><img class="svg" src="/images/csu.png" width="20pt"></a> Bachelor of Computer Science, Central South University
 <span class='anchor' id='-lwzl'></span>
