@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiayang Ao"
-  avatar           : "images/lin.png"
+  avatar           : "https://media.licdn.com/dms/image/D5603AQFBYHxkvPqNrw/profile-displayphoto-shrink_200_200/0/1692452342852?e=1715212800&v=beta&t=p9v5dXTUKr6uNnr2L07UQ-y0HLX2u-EE6GB92sFAyUA"
   bio              : "The University of Melbourne"
   location         : "Melbourne, Au"
   employer         : #"Hefei General Machinery Research Institute"
