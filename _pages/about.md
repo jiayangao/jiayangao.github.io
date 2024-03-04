@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. degree at Swinburne University of Technology- Information and Communication Technology (Cybersecurity), under the supervision of [Prof. Jun Zhang]([https://ailab.bytedance.com/](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=junzhang)), [Prof. Yang Xiang](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=yxiang). I got my MSc Degree at The University of Melbourne in 2020, under the supervision of [Prof. Karin Verspoor](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/v/verspoor-professor-karin). I also collaborate with [A/Prof Lei pan](https://www.deakin.edu.au/about-deakin/people/lei-pan), [Dr. Chao Chen](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/c/chen-dr-chao) and Dr. [Leo Yu Zhang](https://sites.google.com/site/leoyuzhang/) closely. My research interest includes Biometrics, Software Vulnerability Detection, Large Language Model (LLM) and AI.
+I am a last-year computer vision PhD student at the University of Melbourne, under the supervision of [Dr Krista A. Ehinger]([http://www.kehinger.com/]). I got my MSc Degree at The University of Melbourne in 2021. My work focuses on bridging the gap between computer vision systems and human perception, such as filling in visually occluded parts. My research interests include image segmentation, object recognition and scene understanding.
+
 
 <span class='test' id='test'></span>
 <div></div>
