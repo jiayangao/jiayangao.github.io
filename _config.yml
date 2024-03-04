@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lin Li"
-description              : "Cybersecurity, Biometrics, LLM"
-repository               : "Nastul/Nastul.github.io"
+title                    : "Jiayang Ao"
+description              : "Computer Vision"
+repository               : "Nastul/jiayangao.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lin Li"
+  name             : "Jiayang Ao"
   avatar           : "images/lin.png"
-  bio              : "Swinburne University"
+  bio              : "The University of Melbourne"
   location         : "Melbourne, Au"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=fKIV3Y8AAAAJ"
-  email            : "linli@swin.edu.au"
+  googlescholar    : "https://scholar.google.com/citations?user=Sq5U8MAAAAAJ"
+  email            : "jiayang.ao@student.unimelb.edu.au"
   # researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Nastul"
+  github           : "jiayangao"
   google_plus      :
   keybase          :
   instagram        :
   # impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "lin-li-06421a114"
+  linkedin         : "jiayang-ao"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-7497-9002"
+  orcid            : #"https://orcid.org/0000-0001-7497-9002"
   pinterest        :
   soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
