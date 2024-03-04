@@ -40,15 +40,8 @@ I am a third-year computer vision PhD candidate at the University of Melbourne, 
 - Head tutor, [COMP90049 Introduction to Machine Learning](https://handbook.unimelb.edu.au/2024/subjects/comp90049), the University of Melbourne, 02/2022- present
 - Tutor, [COMP30027 Machine Learning](https://handbook.unimelb.edu.au/subjects/comp30027), the University of Melbourne, 02/2022- present
 
-
 <span class='anchor' id='-services'></span>
-# 🏛️ SERVICES 
-
-### External Reviewer
-- ACM Multimedia (MM)                2024
-
-
-### Scholarships, Awards & Honor
+# 🏆 Scholarships, Awards & Honor
 - [Jan 2024] IEEE/CVF Winter Conference on Applications of Computer Vision Travel Grant
 - [Nov 2023] Engineering and IT Conference Travel Scholarship
 - [Nov 2023] Melbourne School of Engineering Travelling Scholarship (CIS)
@@ -60,7 +53,14 @@ I am a third-year computer vision PhD candidate at the University of Melbourne, 
 - [Jun 2017] China Top10 in 'Her Startup' Empowering Women Entrepreneurs Competition for College Students
 - [Jan 2017] Interdisciplinary Contest In Modeling (Honorable Mention)
 
+<span class='anchor' id='-services'></span>
+# 🏛️ SERVICES 
+
+### External Reviewer
+- ACM Multimedia (MM)                2024
+
 <span class='anchor' id='-xl'></span>
+
 
 # 🎓 Education
 - *2021.10 - present*, <a href="https://www.unimelb.edu.au/"><img class="svg" src="/images/mel.png" width="20pt"></a> Doctor of Philosophy - Engineering and IT, The University of Melbourne
