@@ -33,6 +33,7 @@ I am a third-year computer vision PhD candidate at the University of Melbourne, 
 ---
 - `Jiayang Ao`, Qiuhong Ke, and Krista A Ehinger. [Image amodal completion: A survey. Computer Vision and Image Understanding](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000413), page 103661, 2023.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A. Ehinger. [Amodal intra-class instance segmentation: Synthetic datasets and benchmark](https://openaccess.thecvf.com/content/WACV2024/html/Ao_Amodal_Intra-Class_Instance_Segmentation_Synthetic_Datasets_and_Benchmark_WACV_2024_paper.html). In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pages 281–290, January 2024.
+- `Jiayang Ao`, Qiuhong Ke, and Krista A Ehinger. [Sequential Amodal Segmentation via Cumulative Occlusion Learning](https://arxiv.org/abs/2405.05791), arXiv preprint arXiv:2405.05791.
 
 <span class='anchor' id='-teaching'></span>
 # 🏫 TEACHING 
