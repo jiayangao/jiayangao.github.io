@@ -37,7 +37,7 @@ I am a third-year computer vision PhD candidate at the University of Melbourne, 
 
 <span class='anchor' id='-teaching'></span>
 # 🏫 TEACHING 
-- Lecturer & Course Developer, [ISYS3466 Data-Driven Decision Making: Machine Learning for Business Professionals], the RMIT University, 07/2024- present
+- Lecturer & Course Developer, ISYS3466 Data-Driven Decision Making: Machine Learning for Business Professionals, the RMIT University, 07/2024- present
 - Head tutor & Course Developer, [COMP90086 Computer Vision](https://handbook.unimelb.edu.au/subjects/comp90086), the University of Melbourne, 07/2021- present
 - Head tutor, [COMP90049 Introduction to Machine Learning](https://handbook.unimelb.edu.au/2024/subjects/comp90049), the University of Melbourne, 02/2022- 07/2024
 - Tutor, [COMP30027 Machine Learning](https://handbook.unimelb.edu.au/subjects/comp30027), the University of Melbourne, 02/2022- present
