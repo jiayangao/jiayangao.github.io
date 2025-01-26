@@ -20,10 +20,6 @@ redirect_from:
 I am a last year computer vision PhD candidate at the University of Melbourne, under the supervision of [Dr Krista A. Ehinger](http://www.kehinger.com/). I got my MSc Degree at the University of Melbourne in 2021. My work focuses on bridging the gap between computer vision systems and human perception, such as filling in visually occluded parts. My research interests include object reconstruction/segmentation/recognition and scene understanding.
 
 
-<span class='test' id='test'></span>
-<div></div>
-<a href='https://scholar.google.com/citations?user=Sq5U8MAAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
-
 
 
 <span class='anchor' id='-publications'></span>
