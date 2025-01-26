@@ -16,16 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Bio
+# About Me
 I am a last year computer vision PhD candidate at the University of Melbourne, under the supervision of [Dr Krista A. Ehinger](http://www.kehinger.com/). I got my MSc Degree at the University of Melbourne in 2021. My work focuses on bridging the gap between computer vision systems and human perception, such as filling in visually occluded parts. My research interests include object reconstruction/segmentation/recognition and scene understanding.
 
 
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
-
-
----
 - `Jiayang Ao`, Yanbei Jiang, Qiuhong Ke, and Krista A Ehinger. [Open-World Amodal Appearance Completion](https://arxiv.org/abs/2411.13019). arXiv, 2024.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A Ehinger. [Sequential Amodal Segmentation via Cumulative Occlusion Learning](https://bmvc2024.org/proceedings/15/). In Proceedings of the 35th British Machine Vision Conference (BMVC), November 2024.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A. Ehinger. [Amodal intra-class instance segmentation: Synthetic datasets and benchmark](https://openaccess.thecvf.com/content/WACV2024/html/Ao_Amodal_Intra-Class_Instance_Segmentation_Synthetic_Datasets_and_Benchmark_WACV_2024_paper.html). In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pages 281–290, January 2024.
