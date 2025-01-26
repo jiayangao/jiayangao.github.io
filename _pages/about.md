@@ -51,8 +51,8 @@ I am a last year computer vision PhD candidate at the University of Melbourne, u
 - [Jan 2017] Interdisciplinary Contest In Modeling (Honorable Mention)
 
 <span class='anchor' id='-services'></span>
-# 🏛️ SERVICES 
-
+# 🏛️ SERVICES
+### Unimelb Open Day Demonstration 2024
 ### External Reviewer
 - ACM Multimedia (MM)                2024
 
