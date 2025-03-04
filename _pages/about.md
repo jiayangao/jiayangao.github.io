@@ -39,6 +39,7 @@ I am a last year computer vision PhD candidate at the University of Melbourne, u
 
 <span class='anchor' id='-services'></span>
 # 🏆 Scholarships, Awards & Honor
+- [Sep 2024] Human Annotation Fund, AI group, School of Computing and Information Systems, the University of Melbourne
 - [Jan 2024] IEEE/CVF Winter Conference on Applications of Computer Vision Travel Grant
 - [Nov 2023] Engineering and IT Conference Travel Scholarship
 - [Nov 2023] Melbourne School of Engineering Travelling Scholarship (CIS)
