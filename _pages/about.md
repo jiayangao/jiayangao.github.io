@@ -23,7 +23,7 @@ I am a last year computer vision PhD candidate at the University of Melbourne, u
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
-- `Jiayang Ao`, Yanbei Jiang, Qiuhong Ke, and Krista A Ehinger. [Open-World Amodal Appearance Completion](https://arxiv.org/abs/2411.13019). arXiv, 2024.
+- `Jiayang Ao`, Yanbei Jiang, Qiuhong Ke, and Krista A Ehinger. [Open-World Amodal Appearance Completion](https://arxiv.org/abs/2411.13019). Accepted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A Ehinger. [Sequential Amodal Segmentation via Cumulative Occlusion Learning](https://bmvc2024.org/proceedings/15/). In Proceedings of the 35th British Machine Vision Conference (BMVC), November 2024.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A. Ehinger. [Amodal intra-class instance segmentation: Synthetic datasets and benchmark](https://openaccess.thecvf.com/content/WACV2024/html/Ao_Amodal_Intra-Class_Instance_Segmentation_Synthetic_Datasets_and_Benchmark_WACV_2024_paper.html). In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pages 281–290, January 2024.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A Ehinger. [Image amodal completion: A survey. Computer Vision and Image Understanding](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000413), page 103661, 2023.
@@ -32,10 +32,10 @@ I am a last year computer vision PhD candidate at the University of Melbourne, u
 
 <span class='anchor' id='-teaching'></span>
 # 🏫 TEACHING 
-- Lecturer & Course Developer, ISYS3466 Data-Driven Decision Making: Machine Learning for Business Professionals, the RMIT University, 07/2024- present
-- Head tutor & Course Developer, [COMP90086 Computer Vision](https://handbook.unimelb.edu.au/subjects/comp90086), the University of Melbourne, 07/2021- present
+- Lecturer & Course Developer, ISYS3466 Data-Driven Decision Making: Machine Learning for Business Professionals, the RMIT University, 07/2024- 12/2024
+- Head tutor & Course Developer, [COMP90086 Computer Vision](https://handbook.unimelb.edu.au/subjects/comp90086), the University of Melbourne, 07/2021- 12/2024
 - Head tutor, [COMP90049 Introduction to Machine Learning](https://handbook.unimelb.edu.au/2024/subjects/comp90049), the University of Melbourne, 02/2022- 07/2024
-- Tutor, [COMP30027 Machine Learning](https://handbook.unimelb.edu.au/subjects/comp30027), the University of Melbourne, 02/2022- present
+- Head tutor, [COMP30027 Machine Learning](https://handbook.unimelb.edu.au/subjects/comp30027), the University of Melbourne, 02/2022- present
 
 <span class='anchor' id='-services'></span>
 # 🏆 Scholarships, Awards & Honor
