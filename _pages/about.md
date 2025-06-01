@@ -23,7 +23,7 @@ I am a soon-graduating computer vision PhD candidate at the University of Melbou
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
-- Yanbei Jiang, Yihao Ding, Chao Lei, `Jiayang Ao`, Jey Han Lau, Krista A. Ehinger. Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task. Accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Findings.
+- Yanbei Jiang, Yihao Ding, Chao Lei, `Jiayang Ao`, Jey Han Lau, Krista A. Ehinger. [Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task](https://arxiv.org/abs/2505.21850). Accepted to the Association for Computational Linguistics (ACL 2025) Findings.
 - `Jiayang Ao`, Yanbei Jiang, Qiuhong Ke, and Krista A Ehinger. [Open-World Amodal Appearance Completion](https://arxiv.org/abs/2411.13019). Accepted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A Ehinger. [Sequential Amodal Segmentation via Cumulative Occlusion Learning](https://bmvc2024.org/proceedings/15/). In Proceedings of the 35th British Machine Vision Conference (BMVC), November 2024.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A. Ehinger. [Amodal intra-class instance segmentation: Synthetic datasets and benchmark](https://openaccess.thecvf.com/content/WACV2024/html/Ao_Amodal_Intra-Class_Instance_Segmentation_Synthetic_Datasets_and_Benchmark_WACV_2024_paper.html). In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pages 281–290, January 2024.
