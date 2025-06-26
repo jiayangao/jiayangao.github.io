@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am a soon-graduating computer vision PhD candidate at the University of Melbourne, under the supervision of [Associate Professor Krista A. Ehinger](http://www.kehinger.com/) and [Dr Qiuhong Ke](https://research.monash.edu/en/persons/qiuhong-ke). I got my MSc Degree at the University of Melbourne in 2021. My work focuses on bridging the gap between computer vision systems and human perception, such as filling in visually occluded parts. My research interests include object reconstruction/segmentation/recognition and scene understanding.
+I am a soon-graduating PhD candidate in Computer Vision at the University of Melbourne, under the supervision of [Associate Professor Krista A. Ehinger](http://www.kehinger.com/) and [Dr Qiuhong Ke](https://research.monash.edu/en/persons/qiuhong-ke). I got my MSc Degree at the University of Melbourne in 2021. My work focuses on bridging the gap between computer vision systems and human perception, with expertise in understanding and completing visually occluded content. My interests include object reconstruction, segmentation, recognition, and scene understanding. I am open to research collaborations related to amodal completion.
 
 
 
@@ -40,6 +40,7 @@ I am a soon-graduating computer vision PhD candidate at the University of Melbou
 
 <span class='anchor' id='-services'></span>
 # 🏆 Scholarships, Awards & Honor
+- [Jun 2025] CVPR Travel Support Award
 - [Sep 2024] Human Annotation Fund, AI group, School of Computing and Information Systems, the University of Melbourne
 - [Jan 2024] IEEE/CVF Winter Conference on Applications of Computer Vision Travel Grant
 - [Nov 2023] Engineering and IT Conference Travel Scholarship
