@@ -29,6 +29,7 @@ I am a soon-graduating PhD candidate in Computer Vision at the University of Mel
 - `Jiayang Ao`, Qiuhong Ke, and Krista A. Ehinger. [Amodal intra-class instance segmentation: Synthetic datasets and benchmark](https://openaccess.thecvf.com/content/WACV2024/html/Ao_Amodal_Intra-Class_Instance_Segmentation_Synthetic_Datasets_and_Benchmark_WACV_2024_paper.html). In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pages 281–290, January 2024.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A Ehinger. [Image amodal completion: A survey. Computer Vision and Image Understanding](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000413), page 103661, 2023.
 
+<span class='anchor' id='-research'></span>
 # 🔬 Research
 - [ArtCert](https://www.unimelb.edu.au/mdap/research/2023-collaborations/computational-methods-for-artwork-authentication-using-hyperspectral-imaging) Researcher, Faculty of Arts, University of Melbourne, 04/2025 – 06/2025
 
@@ -39,7 +40,7 @@ I am a soon-graduating PhD candidate in Computer Vision at the University of Mel
 - Head tutor, [COMP90049 Introduction to Machine Learning](https://handbook.unimelb.edu.au/2024/subjects/comp90049), the University of Melbourne, 02/2022- 07/2024
 - Head tutor, [COMP30027 Machine Learning](https://handbook.unimelb.edu.au/subjects/comp30027), the University of Melbourne, 02/2022- 06/2025
 
-<span class='anchor' id='-services'></span>
+<span class='anchor' id='-awards'></span>
 # 🏆 Scholarships, Awards & Funding
 - [Jun 2025] CVPR Travel Support Award
 - [Sep 2024] Human Annotation Fund, AI group, School of Computing and Information Systems, the University of Melbourne
