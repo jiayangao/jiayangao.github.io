@@ -39,7 +39,7 @@ I am a soon-graduating PhD candidate in Computer Vision at the University of Mel
 - Head tutor, [COMP30027 Machine Learning](https://handbook.unimelb.edu.au/subjects/comp30027), the University of Melbourne, 02/2022- 06/2025
 
 <span class='anchor' id='-services'></span>
-# 🏆 Scholarships, Awards & Honor
+# 🏆 Scholarships, Awards & Funding
 - [Jun 2025] CVPR Travel Support Award
 - [Sep 2024] Human Annotation Fund, AI group, School of Computing and Information Systems, the University of Melbourne
 - [Jan 2024] IEEE/CVF Winter Conference on Applications of Computer Vision Travel Grant
