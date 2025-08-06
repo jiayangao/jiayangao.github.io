@@ -24,8 +24,8 @@ I am a soon-graduating PhD candidate in Computer Vision at the University of Mel
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
 - Lin Li, Youyang Qu, `Jiayang Ao`, Ming Ding, Chao Chen, Jun Zhang. The Art of Deception: Crafting Chimera Images for Covert and Robust Semantic Poisoning Attacks. Accepted to the 2025 ACM Conference on Computer and Communications Security (CCS).
-- Yanbei Jiang, Yihao Ding, Chao Lei, `Jiayang Ao`, Jey Han Lau, Krista A. Ehinger. [Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task](https://arxiv.org/abs/2505.21850). Accepted to the Association for Computational Linguistics (ACL) 2025 Findings.
-- `Jiayang Ao`, Yanbei Jiang, Qiuhong Ke, and Krista A Ehinger. [Open-World Amodal Appearance Completion](https://arxiv.org/abs/2411.13019). Accepted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025.
+- Yanbei Jiang, Yihao Ding, Chao Lei, `Jiayang Ao`, Jey Han Lau, Krista A. Ehinger. [Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task](https://arxiv.org/abs/2505.21850). In Proceedings of the Association for Computational Linguistics (ACL) 2025 Findings.
+- `Jiayang Ao`, Yanbei Jiang, Qiuhong Ke, and Krista A Ehinger. [Open-World Amodal Appearance Completion](https://arxiv.org/abs/2411.13019). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A Ehinger. [Sequential Amodal Segmentation via Cumulative Occlusion Learning](https://bmvc2024.org/proceedings/15/). In Proceedings of the 35th British Machine Vision Conference (BMVC), November 2024.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A. Ehinger. [Amodal intra-class instance segmentation: Synthetic datasets and benchmark](https://openaccess.thecvf.com/content/WACV2024/html/Ao_Amodal_Intra-Class_Instance_Segmentation_Synthetic_Datasets_and_Benchmark_WACV_2024_paper.html). In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pages 281–290, January 2024.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A Ehinger. [Image amodal completion: A survey. Computer Vision and Image Understanding](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000413), page 103661, 2023.
@@ -70,4 +70,5 @@ I am a soon-graduating PhD candidate in Computer Vision at the University of Mel
 - *2019.07 - 2021.07*, <a href="https://www.unimelb.edu.au/"><img class="svg" src="/images/mel.png" width="20pt"></a> Master of Science (Computer Science) (with distinction), The University of Melbourne
 - *2015.09 - 2019.06*, <a href="https://www.csu.edu.cn//"><img class="svg" src="/images/csu.png" width="20pt"></a> Bachelor of Management (Information Management and Information Systems), Central South University
 <span class='anchor' id='-lwzl'></span>
+
 
