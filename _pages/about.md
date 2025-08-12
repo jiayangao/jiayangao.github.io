@@ -62,7 +62,6 @@ I am a soon-graduating PhD candidate in Computer Vision at the University of Mel
 ### Unimelb Open Day Demonstration 2024
 ### External Reviewer
 - 2024 ACM Multimedia (MM)           
-- AAAI 2026 Conference Program Committee
 
 <span class='anchor' id='-xl'></span>
 
@@ -72,6 +71,7 @@ I am a soon-graduating PhD candidate in Computer Vision at the University of Mel
 - *2019.07 - 2021.07*, <a href="https://www.unimelb.edu.au/"><img class="svg" src="/images/mel.png" width="20pt"></a> Master of Science (Computer Science) (with distinction), The University of Melbourne
 - *2015.09 - 2019.06*, <a href="https://www.csu.edu.cn//"><img class="svg" src="/images/csu.png" width="20pt"></a> Bachelor of Management (Information Management and Information Systems), Central South University
 <span class='anchor' id='-lwzl'></span>
+
 
 
 
