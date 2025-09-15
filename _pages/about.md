@@ -67,10 +67,11 @@ I am a soon-graduating PhD candidate in Computer Vision at the University of Mel
 
 
 # 🎓 Education
-- *2021.10 - present*, <a href="https://www.unimelb.edu.au/"><img class="svg" src="/images/mel.png" width="20pt"></a> Doctor of Philosophy - Engineering and IT, The University of Melbourne
+- *2021.10 - 2025.09*, <a href="https://www.unimelb.edu.au/"><img class="svg" src="/images/mel.png" width="20pt"></a> Doctor of Philosophy - Engineering and IT, The University of Melbourne
 - *2019.07 - 2021.07*, <a href="https://www.unimelb.edu.au/"><img class="svg" src="/images/mel.png" width="20pt"></a> Master of Science (Computer Science) (with distinction), The University of Melbourne
 - *2015.09 - 2019.06*, <a href="https://www.csu.edu.cn//"><img class="svg" src="/images/csu.png" width="20pt"></a> Bachelor of Management (Information Management and Information Systems), Central South University
 <span class='anchor' id='-lwzl'></span>
+
 
 
 
