@@ -23,7 +23,8 @@ I am a fresh PhD graduate in Computer Vision at the University of Melbourne, und
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
-- Lin Li, Youyang Qu, `Jiayang Ao`, Ming Ding, Chao Chen, Jun Zhang. The Art of Deception: Crafting Chimera Images for Covert and Robust Semantic Poisoning Attacks. Accepted to the ACM Conference on Computer and Communications Security (CCS) 2025.
+- Yunze Liu, Zifan Wang, Peiran Wu, `Jiayang Ao`. PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications. Accepted to the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026.
+- Lin Li, Youyang Qu, `Jiayang Ao`, Ming Ding, Chao Chen, Jun Zhang. Poster: The Art of Deception: Crafting Chimera Images for Covert and Robust Semantic Poisoning Attacks, the ACM Conference on Computer and Communications Security (CCS) 2025.
 - Yanbei Jiang, Yihao Ding, Chao Lei, `Jiayang Ao`, Jey Han Lau, Krista A. Ehinger. [Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task](https://arxiv.org/abs/2505.21850). In Proceedings of the Association for Computational Linguistics (ACL) 2025 Findings.
 - `Jiayang Ao`, Yanbei Jiang, Qiuhong Ke, and Krista A Ehinger. [Open-World Amodal Appearance Completion](https://arxiv.org/abs/2411.13019). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025.
 - `Jiayang Ao`, Qiuhong Ke, and Krista A Ehinger. [Sequential Amodal Segmentation via Cumulative Occlusion Learning](https://bmvc2024.org/proceedings/15/). In Proceedings of the 35th British Machine Vision Conference (BMVC), November 2024.
@@ -72,6 +73,7 @@ I am a fresh PhD graduate in Computer Vision at the University of Melbourne, und
 - *2019.07 - 2021.07*, <a href="https://www.unimelb.edu.au/"><img class="svg" src="/images/mel.png" width="20pt"></a> Master of Science (Computer Science) (with distinction), The University of Melbourne
 - *2015.09 - 2019.06*, <a href="https://www.csu.edu.cn//"><img class="svg" src="/images/csu.png" width="20pt"></a> Bachelor of Management (Information Management and Information Systems), Central South University
 <span class='anchor' id='-lwzl'></span>
+
 
 
 
