@@ -39,7 +39,7 @@ I am a fresh PhD graduate in Computer Vision at the University of Melbourne, und
 <span class='anchor' id='-appointments'></span>
 # 🔬 Professional Appointments
 - Research Scientist, Canva CORE/Leonardo.Ai, 06/2025 - present
-- [ArtCert](https://www.unimelb.edu.au/mdap/research/2023-collaborations/computational-methods-for-artwork-authentication-using-hyperspectral-imaging) Researcher, Faculty of Arts, University of Melbourne, 04/2025 – 06/2025
+- Research Assistant (Postdoctoral), [ArtCert](https://www.unimelb.edu.au/mdap/research/2023-collaborations/computational-methods-for-artwork-authentication-using-hyperspectral-imaging), Faculty of Arts, University of Melbourne, 04/2025 – 06/2025
 
 <span class='anchor' id='-teaching'></span>
 # 🏫 Teaching
@@ -78,6 +78,7 @@ I am a fresh PhD graduate in Computer Vision at the University of Melbourne, und
 - *2019.07 - 2021.07*, <a href="https://www.unimelb.edu.au/"><img class="svg" src="/images/mel.png" width="20pt"></a> Master of Science (Computer Science) (with distinction), The University of Melbourne
 - *2015.09 - 2019.06*, <a href="https://www.csu.edu.cn//"><img class="svg" src="/images/csu.png" width="20pt"></a> Bachelor of Management (Information Management and Information Systems), Central South University
 <span class='anchor' id='-lwzl'></span>
+
 
 
 
